@@ -565,7 +565,7 @@ h3.my-profession
 {
     background: blue;
 }
-.roadmap .roadmap-item .roadmap-item-inner:hover .icon
+.roadmap .roadmap-item .roadmap-item-inner:hover .icon .fa
 {
     font-size: 25px;
     color: #ffffff;
